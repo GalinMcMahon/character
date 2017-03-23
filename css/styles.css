@@ -1,0 +1,91 @@
+.well {
+  align: center;
+  background-image: img/sand.jpg
+}
+
+.jumbotron {
+  text-align: center;
+  opacity: 0.60;
+}
+
+body {
+  background-image: url("img/sand.jpg");
+  width: 100%;
+  background-color: gold;
+}
+
+#background {
+  opacity: 0.70;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: -1; /* Ensure div tag stays behind content; -999 might work, too. */
+}
+
+.well {
+  opacity: 0.70;
+}
+
+#show1 {
+  display: none;
+  position: absolute;
+}
+
+#show1 img {
+  width: 600px;
+}
+
+#show2 {
+  display: none;
+  position: absolute;
+}
+
+#show2 img {
+  width: 600px;
+}
+
+
+#show3 {
+  display: none;
+  position: absolute;
+}
+
+#show3 img {
+  width: 600px;
+}
+
+
+#show4 {
+  display: none;
+  position: absolute;
+}
+
+#show4 img {
+  width: 600px;
+}
+
+
+#show5 {
+  display: none;
+  position: absolute;
+}
+
+#show5 img {
+  width: 600px;
+}
+
+
+#show6 {
+  display: none;
+  position: absolute;
+}
+
+#show6 img {
+  width: 600px;
+}
+
+#Questions {
+
+}
